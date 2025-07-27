@@ -1,0 +1,3 @@
+# This file ensures the models directory is tracked by git
+# Trained models will be saved here:
+# - simclr.pth (trained SimCLR model) 

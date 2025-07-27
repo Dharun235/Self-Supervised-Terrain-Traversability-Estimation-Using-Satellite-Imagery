@@ -1,0 +1,6 @@
+# This file ensures the data/raw directory is tracked by git
+# Place your satellite imagery and DEM files here:
+# - LC08_L1GT_139211_20140920_20200910_02_T2_B2.TIF (Blue band)
+# - LC08_L1GT_139211_20140920_20200910_02_T2_B3.TIF (Green band) 
+# - LC08_L1GT_139211_20140920_20200910_02_T2_B4.TIF (Red band)
+# - dem.tif (Digital Elevation Model) 

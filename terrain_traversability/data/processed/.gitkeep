@@ -1,0 +1,4 @@
+# This file ensures the data/processed directory is tracked by git
+# Processed files will be saved here:
+# - sentinel_rgb.tiff (RGB satellite image)
+# - dem.tiff (processed DEM) 
